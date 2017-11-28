@@ -1,15 +1,7 @@
-JsonSQL
-=======
-Query json objects with SQL syntax
-
-Author: Trent Richardson [http://trentrichardson.com]
-
-Documentation: http://trentrichardson.com/jsonsql/
+NgJsonSQL
+=========
+Query json objects with SQL syntax inside Angular App
 
 Version 0.1
 
-Copyright 2015 Trent Richardson
-
-You may use this project under MIT license.
-
-http://trentrichardson.com/Impromptu/MIT-LICENSE.txt
+No other libraries are required.
