@@ -4,7 +4,7 @@ Query json objects with SQL syntax inside Angular App
 
 Version 0.1
 
-No other dependency are required.
+No other dependency is required.
 
 
 1) Allows an Array of Objects to be selected, in addition to JSON data
